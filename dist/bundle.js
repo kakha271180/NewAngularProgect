@@ -15,7 +15,7 @@
   \********************************/
 /***/ (() => {
 
-eval("console.log(\"Kakhaber Sartania\");\n\n//# sourceURL=webpack://AngularProject/./src/JavaScript/Main.js?");
+eval("var _KakhaberSartania;\n\nconsole.log((_KakhaberSartania = \"Kakhaber Sartania\") !== null && _KakhaberSartania !== void 0 ? _KakhaberSartania : \"Maia Sartania\");\n\n//# sourceURL=webpack://AngularProject/./src/JavaScript/Main.js?");
 
 /***/ })
 
